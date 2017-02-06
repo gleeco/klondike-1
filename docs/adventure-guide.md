@@ -1,7 +1,4 @@
-# Exploring the Klondike
-
-A Confused Guide with Jacob Straszysnki
----------------------------------------
+# Exploring Klondike
 
 In this walkthrough we're going to work our way from the bastion host that
 arbiters access to our cluster, to a node, which functions as the "physical"
